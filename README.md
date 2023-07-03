@@ -9,7 +9,7 @@ O projeto Food Explorer é o desafio final do programa Explorer da Rocketseat. U
 
 o front-end, está disponível [aqui](https://github.com/JupterKDH/RocketFood-Front).
 
-<h2 id="technologies">💻 Tecnologias</h2>
+<h2>Tecnologias</h2>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -26,10 +26,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - SQLite
 - SQLite3
 
-<h2 id="usage">💡 Utilização</h2>
+<h2>Utilização</h2>
 
 O back-end do projeto está hospedado no endereço https://rocketfood-back.onrender.com  A aplicação Food Explorer está disponível para uso [aqui](https://rocketfood-front.netlify.app).
 **Aviso**: Como este projeto utiliza uma hospedagem gratuita para o back-end, podem ocorrer atrasos.
+
+O front-end está em: https://rocketfood-front.netlify.app/
 
 Você também pode executá-lo em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
@@ -65,6 +67,9 @@ admin123
 user:
 user@email.com
 12345
+
+podem ser cadastrados outros usúarios normalmente.
+usuários admin precisam ser registrados pelo insomnia
 
 **Importante**: Crie um arquivo .env de acordo com o arquivo .env.example e preencha os campos AUTH_SECRET e PORT com suas respectivas informações.
 
