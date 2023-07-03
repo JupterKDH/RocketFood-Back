@@ -31,6 +31,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 O back-end do projeto está hospedado no endereço https://rocketfood-back.onrender.com  A aplicação Food Explorer está disponível para uso [aqui](https://rocketfood-front.netlify.app).
 **Aviso**: Como este projeto utiliza uma hospedagem gratuita para o back-end, podem ocorrer atrasos.
 
+O front-end está em: https://rocketfood-front.netlify.app/
+
 Você também pode executá-lo em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
 1. Clone o projeto:
